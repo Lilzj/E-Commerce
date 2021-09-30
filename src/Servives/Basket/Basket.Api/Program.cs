@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Basket.Api
+namespace Cart.Api
 {
     public class Program
     {
